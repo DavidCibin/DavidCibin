@@ -15,7 +15,6 @@ I’m a software engineer with a strong background in graphic design, as well as
 <hr>
 
 Check my <a href="https://www.linkedin.com/in/davidcibin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/davidcibin">
 
 Check out my portfolio ![here](https://www.davidcibin.com)
 
