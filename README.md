@@ -2,11 +2,14 @@
 ### I'm a full-stack developer, I'm a graphic designer
 
 
-![Full Stack Developer](https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif)
+![Full Stack Developer](https://i.ibb.co/PWr3gZg/full-stack.gif)
 
 - 📧   You can reach me at: **developer@davidcibin.com**
 - 🏙️   I currently live in the Boston area!
 - 🤝   Open to connecting, open for partnerships!
+
+<hr>
+
 I’m a software engineer with a strong background in graphic design, as well as customer service. Being a successful small business owner for many years, I have the ability to look at projects and understand not only the underlying business goals, but help a team to achieve them in an efficient way. I'm ready to handle complex situations and deliver creative and quality solutions!
 Check my [Linkedin](https://www.linkedin.com/in/davidcibin) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/davidcibin/)  
 
