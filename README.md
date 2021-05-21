@@ -1,7 +1,8 @@
 ## Hello! I'm David Cibin
 ### I'm a full-stack developer, I'm a graphic designer
 
-div
+<a href="https://ibb.co/qgDXpMp"><img src="https://i.ibb.co/Jpc0HRH/full-stack.gif" alt="full-stack" border="0"></a>
+
 - 📧   You can reach me at: **developer@davidcibin.com**
 - 🏙️   I currently live in the Boston area!
 - 🤝   Open to connecting, open for partnerships!
@@ -10,6 +11,7 @@ Check my [Linkedin](https://www.linkedin.com/in/davidcibin) [<img src='https://c
 
 Check out my portfolio<a href='https://www.davidcibin.com' target="_blank" rel="noopener noreferrer"> here</a>
 
+<hr>
 
 ### Skills: 
 
