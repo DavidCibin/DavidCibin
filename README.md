@@ -14,12 +14,6 @@ I’m a software engineer with a strong background in graphic design, as well as
 
 <hr>
 
-Check my <a href="https://www.linkedin.com/in/davidcibin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
-
-Check out my portfolio [here](www.davidcibin.com)
-
-<hr>
-
 ### Skills: 
 <div>
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -39,7 +33,13 @@ Check out my portfolio [here](www.davidcibin.com)
 </div>  
 
 
-<hr>  
+<hr>
+
+Check my <a href="https://www.linkedin.com/in/davidcibin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
+
+Check out my portfolio [here](www.davidcibin.com)
+
+<hr>
 
 
 
