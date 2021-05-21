@@ -18,6 +18,7 @@ Check my <a href="https://www.linkedin.com/in/davidcibin/"><img src="https://img
 <a href="https://www.linkedin.com/in/davidcibin">
 
 <span>Check out my portfolio</span><a href='https://www.davidcibin.com' target="_blank" rel="noopener noreferrer"> here</a>
+Check out my portfolio[here]()
 
 <hr>
 
