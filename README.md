@@ -28,6 +28,10 @@ Skills:
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
 <br/>
 
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCibin&show_icons=true&theme=bear) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCibin&layout=compact&theme=bear)
 
 ### GitHub Stats
 <div align="center">
