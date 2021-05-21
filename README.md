@@ -29,14 +29,12 @@ Skills:
 <hr>
 
 ### GitHub Stats
-<p>
+<div display=inline-flex>
   <a href="https://github.com/davidcibin/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidcibin&theme=buefy&show_icons=true" />
   </a> 
-</p>
 
-<p>
   <a href="https://github.com/davidcibin/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcibin" />
   </a>
-</p>
+</div>
