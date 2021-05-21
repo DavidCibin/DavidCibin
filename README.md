@@ -11,10 +11,13 @@
 <hr>
 
 I’m a software engineer with a strong background in graphic design, as well as customer service. Being a successful small business owner for many years, I have the ability to look at projects and understand not only the underlying business goals, but help a team to achieve them in an efficient way. I'm ready to handle complex situations and deliver creative and quality solutions!
+
+<hr>
+
 Check my <a href="https://www.linkedin.com/in/davidcibin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/davidcibin">
 
-Check out my portfolio<a href='https://www.davidcibin.com' target="_blank" rel="noopener noreferrer"> here</a>
+<span>Check out my portfolio</span><a href='https://www.davidcibin.com' target="_blank" rel="noopener noreferrer"> here</a>
 
 <hr>
 
