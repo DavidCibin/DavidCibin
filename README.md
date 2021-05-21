@@ -39,8 +39,6 @@ Check out my portfolio [here](www.davidcibin.com)
 
 <hr>
 
-### GitHub Stats
-
 <div display=inline-flex>
   <a href="https://github.com/davidcibin/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=davidcibin&theme=buefy&show_icons=true" />
