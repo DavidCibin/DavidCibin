@@ -1,7 +1,7 @@
 ## Hello! I'm David Cibin
 ### I'm a full-stack developer, I'm a graphic designer
 
-
+div
 - 📧   You can reach me at: **developer@davidcibin.com**
 - 🏙️   I currently live in the Boston area!
 - 🤝   Open to connecting, open for partnerships!
@@ -30,6 +30,8 @@ Skills:
 
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCibin&show_icons=true&theme=bear) 
+<div>
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCibin&show_icons=true&theme=bear) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCibin&layout=compact&theme=bear)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCibin&layout=compact&theme=bear)
+</div>
