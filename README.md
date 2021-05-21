@@ -12,7 +12,7 @@ Check out my portfolio<a href='https://www.davidcibin.com' target="_blank" rel="
 
 
 Skills: 
-<br/>
+<hr>
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
@@ -26,16 +26,17 @@ Skills:
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
-<br/>
+<hr>
 
 ### GitHub Stats
-<div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCibin&show_icons=true&theme=bear) 
+<p>
+  <a href="https://github.com/davidcibin/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=davidcibin&theme=buefy&show_icons=true" />
+  </a> 
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCibin&layout=compact&theme=bear)
-</div>
-
-### GitHub Stats
-<div align="center">
-   ![Top Langs](https://github-readme-stats.vercel.app/api?username=DavidCibin&show_icons=true&theme=bear)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCibin&layout=compact&theme=bear)
+<p>
+  <a href="https://github.com/davidcibin/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcibin" />
+  </a>
+</p>
