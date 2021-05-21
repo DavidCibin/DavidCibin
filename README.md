@@ -30,7 +30,7 @@ Skills:
 
 
 ### GitHub Stats
-<div>
-    [GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidCibin&show_icons=true&theme=bear) 
-   [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCibin&layout=compact&theme=bear)
+<div align="center">
+   ![Top Langs](https://github-readme-stats.vercel.app/api?username=DavidCibin&show_icons=true&theme=bear)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCibin&layout=compact&theme=bear)
 </div>
