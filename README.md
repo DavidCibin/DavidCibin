@@ -2,7 +2,7 @@
 ### I'm a full-stack developer, I'm a graphic designer
 
 
-![Full Stack Developer](https://i.ibb.co/Jpc0HRH/full-stack.gif)
+![Full Stack Developer](https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif)
 
 - 📧   You can reach me at: **developer@davidcibin.com**
 - 🏙️   I currently live in the Boston area!
