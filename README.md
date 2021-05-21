@@ -38,7 +38,7 @@ Check out my portfolio [here](www.davidcibin.com)
 
 <hr>
 
-### Stats:
+# Stats:
 
 <div display=inline-flex>
   <a href="https://github.com/davidcibin/github-readme-stats">
