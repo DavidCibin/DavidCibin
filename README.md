@@ -19,15 +19,13 @@ I’m a software engineer with a strong background in graphic design, as well as
 <img height=20 src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 <a href="www.davidcibin.com">
-<img height=16 src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+<img height=20 src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 ![](https://komarev.com/ghpvc/?username=davidcibin)
 
-Check out my portfolio [here](www.davidcibin.com)
-
 <hr>
 
-### Skills 🛠 
+### Languages, Tools, and Skills 🛠 
 
 <img width=40 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img width=40 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -42,6 +40,8 @@ Check out my portfolio [here](www.davidcibin.com)
 <img width=40 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img width=40 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
 <img width=40 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
+<img width=40 align="left" src="https://i.ibb.co/Zm25SGN/coreldraw-gs2019-2-svg.png" />
+<img width=40 align="left" src="https://i.ibb.co/X8TLDdz/1200px-Adobe-Photoshop-Mobile-icon-svg.png" />
 <br />
 <br />
 <br />
