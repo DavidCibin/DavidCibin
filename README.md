@@ -16,10 +16,10 @@ I’m a software engineer with a strong background in graphic design, as well as
 
 <a href="https://www.linkedin.com/in/davidcibin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
 <a href="mailto:developer@davidcibin.com">
-<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+<img height=20 src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 <a href="www.davidcibin.com">
-<img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+<img height=16 src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 ![](https://komarev.com/ghpvc/?username=davidcibin)
 
