@@ -1,4 +1,4 @@
-## Hello! I'm David Cibin
+## <img src="https://i.ibb.co/D15jdvX/wave.gif" width="30px"> Hello! I'm David Cibin
 ### I'm a full-stack developer, I'm a graphic designer
 
 
@@ -44,9 +44,9 @@ Check out my portfolio [here](www.davidcibin.com)
 
 <div align='center'>
   <a href="https://github.com/davidcibin/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=davidcibin&theme=buefy&show_icons=true" />
+    <img height=250 src="https://github-readme-stats.vercel.app/api?username=davidcibin&theme=buefy&show_icons=true" />
   </a>&nbsp&nbsp
   <a href="https://github.com/davidcibin/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcibin" />
+    <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcibin" />
   </a>
 </div>
