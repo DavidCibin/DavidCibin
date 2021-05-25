@@ -1,4 +1,4 @@
-## <img src="https://i.ibb.co/D15jdvX/wave.gif" width="30px"> Hello! I'm David Cibin
+## <img src="https://i.ibb.co/D15jdvX/wave.gif" width="25px"> Hello! I'm David Cibin
 ### I'm a full-stack developer, I'm a graphic designer
 
 
@@ -14,14 +14,20 @@ I’m a software engineer with a strong background in graphic design, as well as
 
 <hr>
 
-Check my <a href="https://www.linkedin.com/in/davidcibin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/davidcibin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
+<a href="mailto:developer@davidcibin.com">
+<img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="www.davidcibin.com">
+<img src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+</a>
 ![](https://komarev.com/ghpvc/?username=davidcibin)
 
 Check out my portfolio [here](www.davidcibin.com)
 
 <hr>
 
-### Skills: 
+### Skills 🛠 
 
 <img width=40 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img width=40 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -44,9 +50,9 @@ Check out my portfolio [here](www.davidcibin.com)
 
 <div align='center'>
   <a href="https://github.com/davidcibin/github-readme-stats">
-    <img height=250 src="https://github-readme-stats.vercel.app/api?username=davidcibin&theme=buefy&show_icons=true" />
+    <img height=220 src="https://github-readme-stats.vercel.app/api?username=davidcibin&theme=buefy&show_icons=true" />
   </a>&nbsp&nbsp
   <a href="https://github.com/davidcibin/github-readme-stats">
-    <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcibin" />
+    <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcibin" />
   </a>
 </div>
