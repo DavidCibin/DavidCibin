@@ -41,12 +41,11 @@ Check out my portfolio [here](www.davidcibin.com)
 
 <hr>
 
-<div display=inline-flex>
+<div align='center'>
   <a href="https://github.com/davidcibin/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidcibin&theme=buefy&show_icons=true" />
-  </a> 
-<hr>
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=davidcibin&theme=buefy&show_icons=true" />
+  </a>&nbsp&nbsp
   <a href="https://github.com/davidcibin/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcibin" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcibin" />
   </a>
 </div>
