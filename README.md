@@ -27,24 +27,24 @@ I’m a software engineer with a strong background in graphic design, as well as
 
 ### Languages, Tools, and Skills 🛠 
 
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
-<img width=40 style="margin-bottom=10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
-<img width=40 style="margin-bottom=10px" align="left" src="https://i.ibb.co/Zm25SGN/coreldraw-gs2019-2-svg.png" />
-<img width=40 style="margin-bottom=10px" align="left" src="https://i.ibb.co/X8TLDdz/1200px-Adobe-Photoshop-Mobile-icon-svg.png" />
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
+<img width=40 style="margin-bottom:10px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
+<img width=40 style="margin-bottom:10px" align="left" src="https://i.ibb.co/Zm25SGN/coreldraw-gs2019-2-svg.png" />
+<img width=40 style="margin-bottom:10px" align="left" src="https://i.ibb.co/X8TLDdz/1200px-Adobe-Photoshop-Mobile-icon-svg.png" />
 <br />
 <br />
 <br />
