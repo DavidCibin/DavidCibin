@@ -1,12 +1,11 @@
 ## <img src="https://i.ibb.co/D15jdvX/wave.gif" width="25px"> Hello! I'm David Cibin
-### I'm a full-stack developer, I'm a graphic designer!
+### I'm a software engineer, I'm a graphic designer!
 
 
 ![Full Stack Developer](https://i.ibb.co/PWr3gZg/full-stack.gif)
 
 - 📧   You can reach me at: **developer@davidcibin.com**
 - 🏙️   I currently live in the Boston area!
-- 🤝   Open to connecting, open for partnerships!
 
 <hr>
 
