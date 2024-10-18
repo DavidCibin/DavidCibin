@@ -2,9 +2,9 @@
 ### I'm a software engineer, I'm a graphic designer!
 
 
-![Full Stack Developer](https://i.ibb.co/PWr3gZg/full-stack.gif)
+![Full Stack mail](https://i.ibb.co/PWr3gZg/full-stack.gif)
 
-- 📧   You can reach me at: **developer@davidcibin.com**
+- 📧   You can reach me at: **mail@davidcibin.com**
 - 🏙️   I currently live in the Boston area!
 
 <hr>
@@ -14,7 +14,7 @@ I’m a software engineer with a strong background in graphic design, as well as
 <hr>
 
 <a href="https://www.linkedin.com/in/davidcibin/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" /></a>
-<a href="mailto:developer@davidcibin.com">
+<a href="mailto:mail@davidcibin.com">
 <img height=20 src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 <a href="www.davidcibin.com">
