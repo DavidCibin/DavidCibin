@@ -17,7 +17,7 @@ I’m a software engineer with a strong background in graphic design, as well as
 <a href="mailto:mail@davidcibin.com">
 <img height=20 src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
-<a href="www.davidcibin.com">
+<a href="https://www.davidcibin.com">
 <img height=20 src="https://img.shields.io/badge/Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 ![](https://komarev.com/ghpvc/?username=davidcibin)
