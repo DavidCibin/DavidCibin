@@ -9,7 +9,12 @@
 
 <hr>
 
-I’m a software engineer with a strong background in graphic design, as well as customer service. Being a successful small business owner for many years, I have the ability to look at projects and understand not only the underlying business goals, but help a team to achieve them in an efficient way. I'm ready to handle complex situations and deliver creative and quality solutions!
+I am a versatile software engineer with expertise in full-stack development and a strong background
+in graphic design. My blend of technical and creative skills enables me to build efficient, user-friendly
+applications that align with business goals. I thrive in dynamic environments, adept at solving
+complex challenges and delivering high-quality solutions that drive results. My collaborative nature
+and adaptability allow me to contribute effectively to team success across various domains and
+industries.
 
 <hr>
 
