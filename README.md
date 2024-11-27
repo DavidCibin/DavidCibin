@@ -9,12 +9,16 @@
 
 <hr>
 
-I am a versatile software engineer with expertise in full-stack development and a strong background
-in graphic design. My blend of technical and creative skills enables me to build efficient, user-friendly
-applications that align with business goals. I thrive in dynamic environments, adept at solving
-complex challenges and delivering high-quality solutions that drive results. My collaborative nature
-and adaptability allow me to contribute effectively to team success across various domains and
-industries.
+With over three years of experience in software engineering, I specialize in building 
+intuitive, high-performance applications. My graphic design background has equipped me with a keen 
+eye for crafting user interfaces that are not only functional but also visually engaging.
+I've built complex, data-driven applications using React, Angular, and back-end technologies like 
+Django and SQL databases. In these roles, I've worked with large datasets to develop interactive data 
+visualizations, allowing users to explore and engage with complex information through tools like D3.js 
+and CanvasHTML.
+I'm dedicated to delivering reliable, high-quality software, focusing on robust testing and attention 
+to detail for optimal performance. I enjoy exploring new technologies and taught myself how to build 
+iOS and Android apps. I'm always looking to expand my skills and tackle new challenges.
 
 <hr>
 
